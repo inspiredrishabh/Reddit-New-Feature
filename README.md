@@ -10,7 +10,7 @@ Follow these steps to get started with this project:
 1. Open your terminal/command prompt.
 2. Run the following command to clone the forked repository to your local machine:
    ```bash
-   git clone [https://github.com/inspiredrishabh/Reddit-New-Feature].git
+   git clone https://github.com/inspiredrishabh/Reddit-New-Feature.git
 ### Step 3: Navigate to the Project Directory
 Move into the project directory by running:
 
