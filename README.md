@@ -23,3 +23,36 @@ Run the following command to install all necessary dependencies:
   ```bash
   npm install
  ```
+### Here's the folder structure : 
+
+```
+src/
+├── components/
+│   ├── CommunityChat/
+│   │   ├── ChatPage.jsx
+│   │   ├── ChatBox.jsx
+│   │   ├── ChatList.jsx
+│   │   ├── MessageInput.jsx
+│   │   └── styles.css
+│   ├── Shared/
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   └── Sidebar.jsx
+│   └── HomePage.jsx
+├── context/
+│   ├── ChatContext.jsx
+│   ├── AuthContext.jsx
+│   └── CommunityContext.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── CommunityChat.jsx
+│   └── CommunityList.jsx
+├── utils/
+│   ├── api.js
+│   └── helpers.js
+├── assets/
+│   └── images/
+├── App.jsx
+├── index.js
+└── styles.css
+```
