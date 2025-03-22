@@ -1,12 +1,25 @@
-# React + Vite
+# Project Setup Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Follow these steps to get started with this project:
 
-Currently, two official plugins are available:
+### Step 1: Fork the Repository
+1. Click on the **Fork** button in the top-right corner of this repository page.
+2. Select your GitHub account to create a copy of the repository.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Step 2: Clone the Repository
+1. Open your terminal/command prompt.
+2. Run the following command to clone the forked repository to your local machine:
+   ```bash
+   git clone [https://github.com/inspiredrishabh/Reddit-New-Feature].git
+### Step 3: Navigate to the Project Directory
+Move into the project directory by running:
 
-## Expanding the ESLint configuration
+  ```bash
+  cd Reddit-New-Feature
+  ```
+### Step 4: Install Dependencies
+Run the following command to install all necessary dependencies:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  ```bash
+  npm install
+ ```
